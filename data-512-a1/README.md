@@ -8,12 +8,12 @@ We acquired the data via the Wikimedia Foundation REST API.
 
 - The Legacy Pagecounts API 
 
-    https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
-    https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end
+    - [documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
+    - [endpoint](https://wikimedia.org/api/rest_v1/#/Pagecounts_data_(legacy)/get_metrics_legacy_pagecounts_aggregate_project_access_site_granularity_start_end)
     
 - The Pageviews API  
-  https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
-  https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end
+  - [documentation](https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
+  - [endpoint](https://wikimedia.org/api/rest_v1/#/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end)
     
 # Final Data File
 The final data file contains 151 rows (one per month) and 8 columns. 
