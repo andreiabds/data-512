@@ -69,7 +69,7 @@ After doing a Statistical test, <b>we concluded that females give toxic labels m
 
 ## Final Thoughts
 
-In this analysis we showed that there is language and gender biases in the dataset. 
+In this analysis we showed that there are language and gender biases in the dataset. 
 
 These biases will have an effect on possible data solutions derived from this dataset. It is important to be aware and take action to mitigate those biases. 
 
